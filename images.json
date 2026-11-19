@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "images": {
+    "qbittorrent": "lscr.io/linuxserver/qbittorrent:latest@sha256:3d4c4545d51a690a0df15a2ff99038823a88a9822df8e794526447b9afbd7384",
+    "radarr": "lscr.io/linuxserver/radarr:latest@sha256:044788f5508b7f67a3e0368cdd142c77c4d4cd5aec2efaba53e1a68b6b6231e7",
+    "sonarr": "lscr.io/linuxserver/sonarr:latest@sha256:c7d1df25e428da6c9ace05daea0d34e59522978a3843ea1944812f855af4086c",
+    "prowlarr": "lscr.io/linuxserver/prowlarr:latest@sha256:45117ba8439e2337a92ffe38a451a4dafc0be771754d05d88cdf102419d09646",
+    "jellyfin": "jellyfin/jellyfin:latest@sha256:fea863d0cd9ec445985d9c75fc6ed64e38a1d2766cf0c250a33d553f4fc1b771",
+    "seerr": "ghcr.io/seerr-team/seerr:latest@sha256:aadee014b40e28cf9aa4928bc9d1183a6eb08f8c44d543cddc9efdcb16549be2",
+    "recyclarr": "ghcr.io/recyclarr/recyclarr:8@sha256:3e9c41b9ec29bbf65fe846864058730d321a21f7695d8c0d9437b73e34d50ad9",
+    "qui": "ghcr.io/autobrr/qui:latest@sha256:a5b2f5faf6388cce257137c88e4b189458fd799cf9119ed476c980e5a69341b2",
+    "byparr": "ghcr.io/thephaseless/byparr:latest@sha256:c66fa161187b8fa527bfad7eefa2647ea1c553f77df68cbffd6fe83366d1787b",
+    "wud": "getwud/wud:9.4.1@sha256:cf429f3a95b5ece811088d0d220741ea0b0460de6743197d26c590d1904e3af9",
+    "gluetun": "qmcgaw/gluetun:latest@sha256:659a07992600128046b359406a2259700076a5ec226a289a1ddd626bb9471860",
+    "port-sync": "python:3.13-alpine@sha256:9ef1a599f863231c3d91e941389bfdc4a2d6070557243d54df1a4e57015b960e",
+    "socket-proxy": "tecnativa/docker-socket-proxy:latest@sha256:be1ac64f33bd82043beb504822a17ba6b71668ea1ad7cf51a9a01d27bb7ab047"
+  },
+  "tracking": {
+    "wud": "getwud/wud:latest"
+  }
+}

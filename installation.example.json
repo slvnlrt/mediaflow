@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "project_name": "mediaflow",
+  "uid": 1000,
+  "gid": 1000,
+  "data_path": "/srv/mediaflow-data",
+  "bind_ip": "127.0.0.1",
+  "timezone": "Europe/Paris",
+  "admin": {
+    "username": "admin",
+    "password": "",
+    "email": ""
+  },
+  "vpn": {
+    "mode": "none",
+    "port_forwarding": false
+  },
+  "options": {
+    "qui": false,
+    "byparr": false,
+    "wud": false
+  }
+}
